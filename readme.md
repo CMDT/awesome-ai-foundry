@@ -27,7 +27,7 @@ This work is a direct result of working on the ERDF Greater Manchester AI Foundr
 - 📜 [The Top 10 Risks of Machine Learning Security](https://ieeexplore.ieee.org/document/9107290)
 - 📜 [Microsoft Azure AI Security Risk Assessment](https://github.com/Azure/AI-Security-Risk-Assessment/blob/main/AI_Risk_Assessment_v4.1.4.pdf)
 
-# Ethical Development
+## Ethical Development
 
 - 🌐 [Microsoft Responsible Innovation Toolkit](https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/)
 - 📜 [On the Dangers of Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922)
