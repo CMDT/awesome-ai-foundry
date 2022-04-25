@@ -1,6 +1,6 @@
 ![foundry_logo](images/AI%20Foundry%20Logo_RGB_Full%20Colour.png)
 
-# AI Best Practice Resources ![awesome_logo](images/awesome_list_logo_small.png)
+# AI Best Practice Resources ![awesome_logo](https://github.com/CMDT/awesome-ai-foundry/blob/master/Images/awesome_list_logo_small.png)
 
 A list curated by the Greater Manchester AI Foundry to provide resources on best AI practice to ensure ethical and inclusive development.
 
