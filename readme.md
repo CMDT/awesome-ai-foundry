@@ -6,6 +6,8 @@ A list curated by the Greater Manchester AI Foundry to provide resources on best
 
 Links have been selected to guide developers to the latest regulation, ethical practices/research and security.
 
+This work is a direct result of working on the ERDF Greater Manchester AI Foundry which is part funded by the European Regional Development Fund.
+
 ## Governing / Advisory Bodies
 
 - 🌐 [The Alan Turing Institute](https://www.turing.ac.uk/)
