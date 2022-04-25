@@ -2,11 +2,9 @@
 
 # AI Best Practice Resources ![awesome_logo](https://github.com/CMDT/awesome-ai-foundry/blob/master/Images/awesome_list_logo_small.png)
 
-A list curated by the Greater Manchester AI Foundry to provide resources on best AI practice to ensure ethical and inclusive development.
+A list curated by the Greater Manchester AI Foundry[^1] to provide resources on best AI practice to ensure ethical and inclusive development.
 
 Links have been selected to guide developers to the latest regulation, ethical practices/research and security.
-
-This work is a direct result of working on the ERDF Greater Manchester AI Foundry which is part funded by the European Regional Development Fund.
 
 ## Governing / Advisory Bodies
 
@@ -46,3 +44,4 @@ This work is a direct result of working on the ERDF Greater Manchester AI Foundr
 - 🎬 [Use of Contrast](https://www.youtube.com/watch?v=60KiAXbkrl0) (Cole Knafflic talks about the use of contrast in good data vis design)
 - 🎬 [How to Declutter](https://www.youtube.com/watch?v=X79o46W5plI) (Cole Knafflic talks about how to declutter in good data vis design)
 
+[^1]: This work is a direct result of working on the ERDF Greater Manchester AI Foundry which is part funded by the European Regional Development Fund.
