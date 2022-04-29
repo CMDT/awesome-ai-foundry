@@ -6,6 +6,8 @@ A list curated by the Greater Manchester AI Foundry[^1] to provide resources on 
 
 Links have been selected to guide developers to the latest regulation, ethical practices/research and security.
 
+The [contribution guidelines](contributing.md) can be found here.
+
 ## Governing / Advisory Bodies
 
 - 🌐 [The Alan Turing Institute](https://www.turing.ac.uk/)
