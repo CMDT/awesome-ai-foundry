@@ -2,11 +2,11 @@
 
 # AI Best Practice Resources ![awesome_logo](https://github.com/CMDT/awesome-ai-foundry/blob/master/Images/awesome_list_logo_small.png)
 
-A list curated by the Greater Manchester AI Foundry[^1] to provide resources on best AI practice to ensure ethical and inclusive development.
+A list curated by the Greater Manchester AI Foundry[^1] to provide resources on and promote best practice with respect to the development of AI.
 
-Links have been selected to guide developers to the latest regulation, ethical practices/research and security.
+Links have been selected with the aim of helping AI developers navigate the latest regulations, practices, and research.
 
-The [contribution guidelines](contributing.md) can be found here.
+The contribution guidelines can be found [here](contributing.md).
 
 ## Governing / Advisory Bodies
 
