@@ -29,6 +29,7 @@ The [contribution guidelines](contributing.md) can be found here.
 
 ## Ethical Development
 
+- 📜 [Building Trustworthy AI Solutions: A Case for Practical Solutions for Small Businesses](https://ieeexplore.ieee.org/document/9658213)
 - 🌐 [Microsoft Responsible Innovation Toolkit](https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/)
 - 📜 [On the Dangers of Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922)
 - 📖 [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/intro.html)
