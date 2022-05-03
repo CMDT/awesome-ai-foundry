@@ -25,6 +25,7 @@ The contribution guidelines can be found [here](contributing.md).
 ## Toolkits / Best Practice
 
 - 🛠️: [Microsoft Responsible Innovation Toolkit](https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/)
+- 📜 [Building Trustworthy AI Solutions: A Case for Practical Solutions for Small Businesses](https://ieeexplore.ieee.org/document/9658213)
 - 📜 [Microsoft Azure AI Security Risk Assessment](https://github.com/Azure/AI-Security-Risk-Assessment/blob/main/AI_Risk_Assessment_v4.1.4.pdf)
 - 📜 [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)
 - 🎬 [Lies, Distortions, and Misrepresentations in Visualisation](https://www.youtube.com/watch?v=IFA-3uXEcb0) (Michael Correll discusses bad practice in data visualisation that can mislead and audience)
