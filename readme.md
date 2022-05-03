@@ -32,11 +32,11 @@ The contribution guidelines can be found [here](contributing.md).
 - 🎬 [Use of Colour](https://www.youtube.com/watch?v=AiD6etOB6qI) (Cole Knafflic talks about the use of colour in good data vis design)
 - 🎬 [Use of Contrast](https://www.youtube.com/watch?v=60KiAXbkrl0) (Cole Knafflic talks about the use of contrast in good data vis design)
 - 🎬 [How to Declutter](https://www.youtube.com/watch?v=X79o46W5plI) (Cole Knafflic talks about how to declutter in good data vis design)
-- 📖 [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/intro.html)
 
 ## Legal, Ethical, & Social Implications
 
 - 📜 [The Top 10 Risks of Machine Learning Security](https://ieeexplore.ieee.org/document/9107290)
 - 📜 [On the Dangers of Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922)
+- 📜 [Interpretable machine learning: Fundamental principles and 10 grand challenges](https://projecteuclid.org/journals/statistics-surveys/volume-16/issue-none/Interpretable-machine-learning-Fundamental-principles-and-10-grand-challenges/10.1214/21-SS133.full)
 
 [^1]: This work is a direct result of working on the ERDF Greater Manchester AI Foundry which is part funded by the European Regional Development Fund.
