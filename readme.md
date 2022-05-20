@@ -4,7 +4,7 @@
 
 A list curated by the Greater Manchester AI Foundry[^1] to provide resources on and promote best practice with respect to the development of AI.
 
-Links have been selected with the aim of helping AI developers navigate the latest regulations, practices, and research.
+Links have been selected with the aim of helping AI developers navigate the latest regulations, practices, and research. However, this list will never be comeplete and we may have missed things!
 
 The contribution guidelines can be found [here](contributing.md).
 
