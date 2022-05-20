@@ -6,7 +6,7 @@ At this time, we are only able to accept pull requests from the GM AI Foundry te
 - Make sure your submission is not a duplicate.
 - Follow the following format: `- [EMOJI] LINK (DESCRIPTION).`
 - Keep descriptions simple.
-- Make an individual pull request for each suggestion.
+- Try to limit the no. of resources raised for each pull request.
 - The pull request and commit should have a useful title.
 
 ## Feedback
