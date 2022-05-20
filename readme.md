@@ -20,6 +20,7 @@ The contribution guidelines can be found [here](contributing.md).
 
 - 🌐 [National AI Strategy](https://www.gov.uk/government/news/new-strategy-to-unleash-the-transformational-power-of-artificial-intelligence) (UK national AI strategy published 2021)
 - 🌐 [Algorithmic Transparency Standard](https://www.gov.uk/government/collections/algorithmic-transparency-standard)
+- 📜  [Auditing algorithms: the existing landscape, role of regulators and future outlook](https://www.gov.uk/government/publications/findings-from-the-drcf-algorithmic-processing-workstream-spring-2022/auditing-algorithms-the-existing-landscape-role-of-regulators-and-future-outlook)
 - 📜 [AI, human rights, democracy and the rule of law: A primer prepared for the Council of Europe](https://www.turing.ac.uk/research/publications/ai-human-rights-democracy-and-rule-law-primer-prepared-council-europe)
 - 📜 [European Commission - Ethics and Data Protection](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-and-data-protection_he_en.pdf)
 
